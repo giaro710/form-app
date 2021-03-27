@@ -1,0 +1,8 @@
+.app {
+  width: 600px;
+  margin: 200px auto;
+  padding: 50px;
+  text-align: center;
+  border: solid 2px #326ea9;
+  border-radius: 16px;
+}
